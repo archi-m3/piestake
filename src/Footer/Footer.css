@@ -1,0 +1,55 @@
+.footer {
+  background-color:#fafafa;
+  padding:3rem 1.5rem 6rem
+}
+
+.footer.footer-dark {
+  background:#444f60;
+  color: #fff;
+}
+
+.footer.footer-dark .columns {
+  margin-top:35px
+}
+
+.footer.footer-dark .footer-logo img {
+  height:40px
+}
+
+.footer.footer-dark .footer-column .footer-header h3 {
+  font-weight: 500;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 12px;
+}
+
+.footer.footer-dark .footer-column ul.link-list {
+  line-height:40px;
+  font-size:1.1rem
+}
+
+.footer.footer-dark .footer-column ul.link-list a {
+  color:#98a9c3;
+  font-weight:400;
+  transition:all .5s
+}
+
+.footer.footer-dark .footer-column ul.link-list :hover {
+  color:#fcfcfc
+}
+
+.footer.footer-dark .footer-column .level-item .icon {
+  width: 16px;
+  color: #fff;
+  transition:all .5s
+}
+
+.footer.footer-dark .footer-column .level-item.email {
+  color: #fff;
+}
+
+
+.footer.footer-dark .footer-column .level-item .icon :hover {
+  color:#fcfcfc
+}

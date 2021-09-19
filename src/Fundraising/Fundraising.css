@@ -1,0 +1,26 @@
+.fundraising {
+  background: url(../images/fundraising-bg.jpg);
+  background-size: cover;
+}
+
+.fundraising .container {
+  padding: 32px;
+  background-color: #8080805e;
+  border-radius: 4px;
+
+}
+
+.fundraising .title {
+  color: #fff;
+  font-size: 3rem;
+}
+
+.fundraising .paragraph {
+  color: #fff;
+  font-size: 1.5rem;
+}
+
+.fundraising .button {
+  background-color: #e00;
+  border: none;
+}
