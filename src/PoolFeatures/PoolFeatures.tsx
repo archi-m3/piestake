@@ -1,4 +1,4 @@
-import react from 'react';
+import React from 'react';
 import InfrastructureIcon from '../images/illustrations/icons/infrastructure.svg';
 import SecurityIcon from '../images/illustrations/icons/security.svg';
 import MaintenanceIcon from "../images/illustrations/icons/maintenance.svg";
