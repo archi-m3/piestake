@@ -5,7 +5,8 @@ import PoolFeatures from '../PoolFeatures';
 import About from '../About';
 import Fundraising from '../Fundraising';
 import Footer from '../Footer';
-import './App.css';
+import Wallet from '../Wallet';
+import './App.less';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <PoolFeatures/>
       <About/>
       <Fundraising/>
+      <Wallet/>
       <Footer/>
     </div>
   );
